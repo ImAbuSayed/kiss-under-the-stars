@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kiss-under-the-stars/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Kiss Under The Stars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kiss-under-the-stars/) |
+| **Get License** | [License this song: Kiss Under The Stars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kiss-under-the-stars/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I just want to hold you close tonight
+> Watch the shadows dancing in the firelight
+> Feel your breath against my skin so slow
+> Baby, never let this moment go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
