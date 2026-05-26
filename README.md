@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kiss-under-the-stars/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Kiss Under The Stars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kiss-under-the-stars/) |
+| **Get License** | [Secure Licensing Rights for Kiss Under The Stars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kiss-under-the-stars/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `67eafbdc0e8c9723710ffee03738458a1b429c374500d61d863f8af1c55515fe` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
